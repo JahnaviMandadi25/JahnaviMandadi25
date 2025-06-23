@@ -19,10 +19,25 @@ I specialize in building scalable dashboards, automating ETL pipelines, and turn
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JahnaviMandadi25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 💼 Data Analyst @ Virtusa  
+## 💼 Work Experience
+
+### 🧠 Associate Engineer – Analytics, Virtusa  
+📆 Jan 2022 – Jul 2023  
+- Built scalable forecasting pipelines (SFTP, Talend, Azure Data Factory) for health insurance data  
+- Standardized & cleansed data in Snowflake using SQL, replaced PII with anonymized IDs  
+- Created dashboards (Power BI) & SQL views for claims trend & anomaly detection  
+- Used Python (Pandas, NumPy, scikit-learn, Matplotlib) for data analysis & forecasting  
+- Automated workflows with Power Automate to monitor pipeline health
+  
+### 📉 Data Analyst, Virtusa  
 📆 Jan 2020 – Jul 2021  
 - Built centralized KPIs & dashboards (Power BI, Tableau)  
-- Automated reporting scripts (SQL, Python, Excel), reducing redundant tasks by 80%  
+- Automated reporting scripts using SQL, Python, Excel — reduced manual tasks by 80%
+  
+### 📈 Marketing Analyst, Verzeo  
+📆 Sep 2020 – Jan 2021  
+- Analyzed campaign performance & customer behavior for demand insights  
+- Built Power BI dashboards to track conversion trends and assist supply forecasting  
 
 ## 📊 Projects
 ### 📌 [Credit Card Dashboard](#)  
