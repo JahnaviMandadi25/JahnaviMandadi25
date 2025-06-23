@@ -9,6 +9,8 @@ I specialize in building scalable dashboards, automating ETL pipelines, and turn
 
 🔍 Currently seeking data-focused roles in analytics, reporting, or automation.
 
+[![Jahnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JahnaviMandadi25&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🛠 Skills
 SQL | Python | DAX | R | SAS | MySQL  
@@ -56,3 +58,4 @@ Coursework: Advanced DBMS, Software Engineering, Marketing Analytics
 📫 Email: [mandadij@uwindsor.ca](mailto:mandadij@uwindsor.ca)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jahnavi-mandadi-b25092219/)  
 🔗 [GitHub](https://github.com/JahnaviMandadi25)  
+
