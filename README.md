@@ -4,7 +4,7 @@
 Data Analyst | BI & Cloud Enthusiast 📍 Based in Canada 
 
 ## 🚀 About Me
-I'm a Data & BI Analyst with 3+ years of experience in data analysis, reporting automation, and business intelligence.  
+I'm a Data & BI Analyst with 3 years of experience in data analysis, reporting automation, and business intelligence.  
 I specialize in building scalable dashboards, automating ETL pipelines, and turning data into actionable insights.
 
 🔍 Currently seeking data-focused roles in analytics, reporting, or automation.
