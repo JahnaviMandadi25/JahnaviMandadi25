@@ -59,3 +59,6 @@ Coursework: Advanced DBMS, Software Engineering, Marketing Analytics
 🔗 [LinkedIn](https://www.linkedin.com/in/jahnavi-mandadi-b25092219/)  
 🔗 [GitHub](https://github.com/JahnaviMandadi25)  
 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jahhhhhhhnavi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jahnavi-mandadi-b25092219/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mandadij@uwindsor.ca) 
