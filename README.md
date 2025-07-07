@@ -1,5 +1,5 @@
 
-# 👩‍💻 Hi, I'm Jahnavi Mandadi and I'm glad you are stalking me 😅
+# 👩‍💻 Hi, I'm Jahnavi and I'm glad you are here 😅
 I’m not great at sports, I dance like nobody’s watching (because I never dance infront of people), and my singing can clear a room in seconds. Though, to be fair, my girlfriend insists it’s not that bad. But!! But hand me messy data, stubborn dashboards, or tangled ETL pipelines, and I’m completely in my element. I love building things that turn numbers into stories and automating the boring parts so humans can focus on what really matters. I’m passionate about taking ideas from zero to insights and helping teams make sense of complex data. Right now, I’m looking for opportunities where I can dive deep, solve problems, and keep learning.
 
 Let’s connect if you’re as excited about data, cloud tech, or turning chaos into clarity as I am!
