@@ -1,15 +1,10 @@
 
-# 👩‍💻 Hi, I'm Jahnavi Mandadi
+# 👩‍💻 Hi, I'm Jahnavi Mandadi and I'm glad you are stalking me 😅
+I’m not great at sports, I dance like nobody’s watching (because I never dance infront of people), and my singing can clear a room in seconds. Though, to be fair, my girlfriend insists it’s not that bad. But!! But hand me messy data, stubborn dashboards, or tangled ETL pipelines, and I’m completely in my element. I love building things that turn numbers into stories and automating the boring parts so humans can focus on what really matters. I’m passionate about taking ideas from zero to insights and helping teams make sense of complex data. Right now, I’m looking for opportunities where I can dive deep, solve problems, and keep learning.
 
-Data Analyst | BI & Cloud Enthusiast 📍 Based in Canada 
+Let’s connect if you’re as excited about data, cloud tech, or turning chaos into clarity as I am!
 
-## 🚀 About Me
-I'm a Data & BI Analyst with 3 years of experience in data analysis, reporting automation, and business intelligence.  
-I specialize in building scalable dashboards, automating ETL pipelines, and turning data into actionable insights.
-
-🔍 Currently seeking data-focused roles in analytics, reporting, or automation.
-
-
+Data Analyst📍 Based in Canada 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
