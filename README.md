@@ -61,7 +61,7 @@ University of Windsor – GPA: 82/100
 Coursework: Advanced DBMS, Software Engineering, Marketing Analytics  
 
 ## 🔗 Contact & Links
-📫 Email: [mandadij@uwindsor.ca](mailto:mandadij@uwindsor.ca)  
+📫 [mandadij@uwindsor.ca](mailto:mandadij@uwindsor.ca)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jahnavi-mandadi-b25092219/)  
 🔗 [Tableau Dashboards](https://public.tableau.com/app/profile/jahnavi.mandadi/vizzes)
 
