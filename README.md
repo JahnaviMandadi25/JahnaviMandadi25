@@ -16,6 +16,9 @@ Data Analyst📍 Based in Canada
 
 ## 💼 Work Experience
 
+### 👩🏻‍💼 Data Consultant - Loblaw Companies Limited
+📆 Sep 2025 – Present
+
 ### 🧠 Associate Engineer – Analytics, Virtusa  
 📆 Jan 2022 – Jul 2023  
   
