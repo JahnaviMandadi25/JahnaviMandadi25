@@ -17,7 +17,7 @@ Data Analyst📍 Based in Canada
 ## 💼 Work Experience
 
 ### 👩🏻‍💼 Senior Analyst - Loblaw Companies Limited
-📆 Sep 2025 – Present
+📆 June 2026 – Present
 
 ### 👩🏻‍💼 Data Consultant - Loblaw Companies Limited
 📆 Sep 2025 – May 2026
